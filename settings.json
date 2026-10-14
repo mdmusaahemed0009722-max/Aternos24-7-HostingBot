@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lifetakers.mcsh.io",
-    "port": 25565,
+    "ip": "play.prismnetwork.top",
+    "port": 19132,
     "version": "",
     "try-creative": false
   },
